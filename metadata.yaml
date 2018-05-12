@@ -1,0 +1,29 @@
+_repo: The-Magic-Soap-Bubble_26944
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26944-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Cory, David
+    alias: Cory, David Magie
+    birthdate: 1872
+    deathdate: 1966
+    gutenberg_agent_id: '871'
+    url: http://www.gutenberg.org/2009/agents/871
+description: ''
+gutenberg_issued: '2008-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Gnomes -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: The Magic Soap Bubble
+url: http://www.gutenberg.org/ebooks/26944
